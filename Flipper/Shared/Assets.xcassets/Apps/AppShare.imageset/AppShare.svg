@@ -1,12 +1,1 @@
-<svg width="46" height="46" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="24.333" y="13.4615" width="2.66667" height="2.46154" transform="rotate(180 24.333 13.4615)" fill="#FE8A2C"/>
-<rect x="16.3333" y="24.2309" width="5.33333" height="2.46154" transform="rotate(180 16.3333 24.2309)" fill="#FE8A2C"/>
-<rect x="35" y="35.0002" width="24" height="2.46154" transform="rotate(180 35 35.0002)" fill="#FE8A2C"/>
-<rect x="13.6667" y="34.0771" width="2.66667" height="9.84616" transform="rotate(180 13.6667 34.0771)" fill="#FE8A2C"/>
-<rect x="35" y="34.0771" width="2.66667" height="9.84616" transform="rotate(180 35 34.0771)" fill="#FE8A2C"/>
-<rect x="35" y="24.2309" width="5.33333" height="2.46154" transform="rotate(180 35 24.2309)" fill="#FE8A2C"/>
-<rect x="24.333" y="25.7694" width="2.66667" height="7.38462" transform="rotate(180 24.333 25.7694)" fill="#FE8A2C"/>
-<rect x="27" y="15.9234" width="8" height="2.46154" transform="rotate(180 27 15.9234)" fill="#FE8A2C"/>
-<rect x="29.667" y="18.3848" width="13.3333" height="2.46154" transform="rotate(180 29.667 18.3848)" fill="#FE8A2C"/>
-<rect x="1.5" y="1.5" width="43" height="43" rx="6.5" stroke="#FF8200" stroke-width="3"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="46" height="46" fill="none" viewBox="0 0 46 46"><rect width="2.667" height="2.462" x="24.333" y="13.461" fill="#FE8A2C" transform="rotate(180 24.333 13.4615)"/><rect width="5.333" height="2.462" x="16.333" y="24.231" fill="#FE8A2C" transform="rotate(180 16.3333 24.2309)"/><rect width="24" height="2.462" x="35" y="35" fill="#FE8A2C" transform="rotate(180 35 35.0002)"/><rect width="2.667" height="9.846" x="13.667" y="34.077" fill="#FE8A2C" transform="rotate(180 13.6667 34.0771)"/><rect width="2.667" height="9.846" x="35" y="34.077" fill="#FE8A2C" transform="rotate(180 35 34.0771)"/><rect width="5.333" height="2.462" x="35" y="24.231" fill="#FE8A2C" transform="rotate(180 35 24.2309)"/><rect width="2.667" height="7.385" x="24.333" y="25.769" fill="#FE8A2C" transform="rotate(180 24.333 25.7694)"/><rect width="8" height="2.462" x="27" y="15.923" fill="#FE8A2C" transform="rotate(180 27 15.9234)"/><rect width="13.333" height="2.462" x="29.667" y="18.385" fill="#FE8A2C" transform="rotate(180 29.667 18.3848)"/><rect width="43" height="43" x="1.5" y="1.5" stroke="#FF8200" stroke-width="3" rx="6.5"/></svg>
